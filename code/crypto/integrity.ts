@@ -9,8 +9,8 @@ import path from 'path'
 import ssri, { type IntegrityLike } from 'ssri'
 
 import { parseJsonBufferSync } from '~/code/data/json'
-import kink from '~/code/kink'
-import { PkgNameVersionForm } from '~/code/form'
+import kink from '~/code/errors/definitions'
+import { PkgNameVersionForm } from '~/code/types'
 
 export const INTEGRITY_REGEX: RegExp = /^([^-]+)-([A-Za-z0-9+/=]+)$/
 

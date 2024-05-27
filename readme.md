@@ -22,9 +22,9 @@ TypeScript for use on new or existing programming languages. Going to
 get this to work for the language I'm working on,
 [`base`](https://github.com/termsurf/base) (framework) for
 [`tree`](https://github.com/termsurf/base) (language), but make it so it
-isn't directly tied to it. Hopefully that iwll spark the imagination of
-someone else to build an even more generic language-agnostic package
-mangaer, if this doesn't end up filling that niche.
+isn't directly tied to it. Hopefully that will spark the imagination of
+someone future self to build an even more generic language-agnostic
+package mangaer, if this doesn't end up filling that niche.
 
 ## Installation
 
