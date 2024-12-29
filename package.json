@@ -1,5 +1,5 @@
 {
-  "name": "@termsurf/deck",
+  "name": "@cluesurf/deck",
   "type": "module",
   "version": "0.0.1",
   "license": "MIT",
@@ -42,8 +42,8 @@
     "typescript": "^5.1.3"
   },
   "dependencies": {
-    "@termsurf/kink": "^0.1.6",
-    "@termsurf/tail": "0.0.2",
+    "@cluesurf/kink": "^0.1.6",
+    "@cluesurf/tail": "0.0.2",
     "@types/concat-stream": "^2.0.3",
     "@types/graceful-fs": "^4.1.9",
     "@types/normalize-path": "^3.0.2",
